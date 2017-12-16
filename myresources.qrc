@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>defaultIcon.png</file>
+        <file>load.gif</file>
+        <file>sourceCode.png</file>
+        <file>back.png</file>
+        <file>forward.png</file>
+        <file>home.png</file>
+        <file>reload.png</file>
+        <file>stop.png</file>
+        <file>menu.png</file>
+        <file>exitButton.png</file>
+        <file>notssl.png</file>
+        <file>ssl.png</file>
+        <file>web.png</file>
+    </qresource>
+</RCC>
