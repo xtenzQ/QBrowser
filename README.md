@@ -1,0 +1,2 @@
+# QBrowser
+Simple QtWebkit Browser
