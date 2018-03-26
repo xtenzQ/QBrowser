@@ -9,6 +9,8 @@
 
 ## Before we start
 
+![Main window](https://i.imgur.com/CfcGWIN.png?1)
+
 The application is developed as the part of the project for programming course at [Irkutsk National Research Techincal University](http://www.istu.edu/eng/).
 
 ## IDEs and plugins used
