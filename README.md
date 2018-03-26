@@ -111,7 +111,7 @@ Related .cpp files:
 - [htmlhighlighter.h](https://github.com/xtenzQ/QBrowser/blob/master/htmlhighlighter.h)
 - [htmlhighlighter.cpp](https://github.com/xtenzQ/QBrowser/blob/master/htmlhighlighter.cpp)
 
-For a second custom element I decided to create a component showing the source code of the page with syntax highlighter (based on Eugene Legotskoy code [[1](#references)]. 
+For a second custom element I decided to create a component showing the source code of the page with syntax highlighter (based on Eugene Legotskoy code [[1](#references)]). 
 
 ![Source code](https://imgur.com/PzgyIRF.png)
 
