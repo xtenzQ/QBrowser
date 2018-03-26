@@ -9,7 +9,8 @@
 
 ## Before we start
 
-![Main window](https://i.imgur.com/CfcGWIN.png?1)
+![Main window](https://i.imgur.com/meXOuL4.png)
+*Main window*
 
 The application is developed as the part of the project for programming course at [Irkutsk National Research Techincal University](http://www.istu.edu/eng/).
 
