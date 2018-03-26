@@ -23,8 +23,7 @@ The application is developed as the part of the project for programming course a
 
 There are a few custom elements I created to follow the task:
 1. [Custom address bar displaying loading progress](#custom-address-bar)
-2. Source code of a web page
-3. Settings window
+2. [Source code of a web page](#source-code-of-a-web-page)
 
 ### Custom address bar
 
